@@ -11,3 +11,7 @@ El repositorio es un control documental que nos permita llevar el control de ven
 📖 La bitácora de aprendizajes (05-aprendizajes/bitacora.md) incluyendo la regla de notificación al correo institucional Vencimiento de documentos @grupo3pl.com.
 
 💻 El Issue en GitHub con la tarea accionable para el equipo
+
+## Seguimiento del proyecto
+
+Conforme avance el proyecto, se pueden ir incorporando aquí los enlaces a los principales documentos y avances para facilitar su seguimiento.
