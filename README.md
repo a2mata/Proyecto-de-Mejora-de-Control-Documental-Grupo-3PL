@@ -13,5 +13,4 @@ El repositorio es un control documental que nos permita llevar el control de ven
 💻 El Issue en GitHub con la tarea accionable para el equipo
 
 ## Seguimiento del proyecto
-
 Conforme avance el proyecto, se pueden ir incorporando aquí los enlaces a los principales documentos y avances para facilitar su seguimiento.
